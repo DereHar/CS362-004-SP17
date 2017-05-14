@@ -1,5 +1,5 @@
 Derek Harris
-Assignment 4
+Assignment 4 Submission
 
 To make files and export GCOV results to "randomtestresults.out", type:
 	"make randomtestresults.out"
