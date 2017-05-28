@@ -1,8 +1,11 @@
 Derek Harris
-Assignment 4
+Assignment 5 Submission
 
-To make files and export GCOV results to "randomtestresults.out", type:
-	"make randomtestresults.out"
+To make file unit card tests, type:
+	"make cardtests"
 
-To make files normally without GCOV results and without "randomtestresults.out" file, type:
+To make random card tests normally without GCOV results and without "randomtestresults.out" file, type:
 	"make randomtestcards"
+
+To make random card tests and export GCOV results to "randomtestresults.out", type:
+	"make randomtestresults.out"
